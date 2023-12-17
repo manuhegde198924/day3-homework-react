@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/day3-homework-react/static/css/main.96572078.css",
+    "main.js": "/day3-homework-react/static/js/main.3bfba2b2.js",
+    "static/js/787.6d9fab03.chunk.js": "/day3-homework-react/static/js/787.6d9fab03.chunk.js",
+    "static/media/couple-lying-massage-desks-spa-salon-beauty-treatment-concept.jpg": "/day3-homework-react/static/media/couple-lying-massage-desks-spa-salon-beauty-treatment-concept.dbd8bcb7b864d4f9efe1.jpg",
+    "index.html": "/day3-homework-react/index.html",
+    "main.96572078.css.map": "/day3-homework-react/static/css/main.96572078.css.map",
+    "main.3bfba2b2.js.map": "/day3-homework-react/static/js/main.3bfba2b2.js.map",
+    "787.6d9fab03.chunk.js.map": "/day3-homework-react/static/js/787.6d9fab03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96572078.css",
+    "static/js/main.3bfba2b2.js"
+  ]
+}
